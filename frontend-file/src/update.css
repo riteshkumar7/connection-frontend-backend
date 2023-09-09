@@ -1,0 +1,9 @@
+.div1{
+    background-color: antiquewhite;
+    border:2px solid green;
+    border-radius: 15px 15px 15px 15px;
+    width:400px;
+    height:250px;
+    padding:20px;
+    margin: 150px 200px;
+}
